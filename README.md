@@ -240,7 +240,7 @@ I'm actively researching crowd analysis and computer vision applications. Open t
 **Connect with me:**
 - GitHub: [@Parva-26](https://github.com/Parva-26)
 - LinkedIn: [@Parva Mehta](https://www.linkedin.com/in/parva-mehta-6592a32a4/)
-- Email: [@parvamehta26@gmail.com]
+- Email: [parvamehta26@gmail.com]
 
 
 
